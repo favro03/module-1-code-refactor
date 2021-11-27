@@ -2,7 +2,7 @@
 
 ## Description ##
 
-Refactor of the codebase for Horiseon including the following:
+Refactoring of the codebase for Horiseon that including the following:
 
 * Semantic HTML elements
 
@@ -22,7 +22,7 @@ Refactor of the codebase for Horiseon including the following:
 
 * The application loads with no errors
 
-* The application reslemes at least 90% of the mock-up
+* The application resembles at least 90% of the mock-up
 
 ## Screenshot ##
 
