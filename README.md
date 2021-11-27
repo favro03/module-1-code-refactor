@@ -28,7 +28,7 @@ Refactor of the codebase for Horiseon including the following:
 
 Here is a screenshot of the refactored application:
 
-![refactored screenshot](../assets/images/favro03.github.io_module-one-code-refactor.png)
+![refactored screenshot](/assets/images/favro03.github.io_module-one-code-refactor.png)
 
 ## Link ##
 
